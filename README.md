@@ -15,5 +15,5 @@
 Currently a MSc student in Image Analysis and Machine Learning at Uppsala Univeristy.
 - 👩‍🎓 Got a bachelor's degree in Biomedical Engineering.
 - 🎯 Now, looking for a **PhD** oppportunity.
-- 🤟🏻 I have a passion for medical artifical intelligence.
+- 🤟 I have a passion for medical artifical intelligence.
 - 🐂 You can view my [resume]( https://github.com/chuxinZ/chuxinZ/blob/main/document/Chuxin_Zhang_CV.pdf ).
