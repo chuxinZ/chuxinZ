@@ -1,5 +1,11 @@
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<p>
 ### Hej hej, I am Chuxin ZHANG.
+<p>
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/chuxin-zhang-a36664126/"><img height="30" src="https://github.com/chuxinZ/chuxinZ/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.facebook.com/chuhsin.chang.1"><img height="30" src="https://github.com/chuxinZ/chuxinZ/blob/main/icon/fb.png?raw=true"></a>
+<p>
 
 <!--
 **chuxinZ/chuxinZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
