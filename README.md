@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hej hej, I am Chuxin ZHANG.
 
 <!--
 **chuxinZ/chuxinZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
